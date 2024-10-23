@@ -9,7 +9,7 @@ This project demonstrates how to work with the Chrome History API and provides a
 * Uses Chrome History API to manage browsing data.
 ## **How To Install**
 * Clone the repository or download the ZIP.
-* Open Chrome and go to chrome [extension](chrome://extensions/).
+* Open Chrome and go to chrome [extension](chrome://extensions).
 * Enable Developer mode in the top right corner.
 * Click on Load unpacked and select the folder containing your extension files.
 * The extension will now appear in the Chrome toolbar.
